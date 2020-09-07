@@ -34,7 +34,7 @@ python beta_vae_test.py
 ```
 
 ## Results
-### AblAtion study
+### Ablation study
 
 <div align="center">
   <img src="./figs/ablation.png" width = '700px'>
