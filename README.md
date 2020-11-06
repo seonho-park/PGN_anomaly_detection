@@ -9,7 +9,7 @@
 > **Interpreting Rate-Distortion of Variational Autoencoder and Using Model Uncertainty for Anomaly Detection**<br>
 > **Seonho Park** (U. of Florida), George Adosoglou (U. of Florida), Panos M. Pardalos (U. of Florida)
 >
-> **Abstract** *Building a scalable machine learning system for unsupervised anomaly detection via representation learning is highly desirable. One of the prevalent methods is using a reconstruction error from variational autoencoder (VAE) via maximizing the evidence lower bound. We revisit VAE from the perspective of information theory to provide some theoretical foundations on using the reconstruction error, and finally arrive at a simpler and more effective model for anomaly detection. In addition, to enhance the effectiveness of detecting anomalies, we incorporate a practical model uncertainty measure into the metric. We show empirically the competitive performance of our approach on benchmark datasets.*
+> **Abstract** *Building a scalable machine learning system for unsupervised anomaly detection via representation learning is highly desirable. One of the prevalent methods is using a reconstruction error of variational autoencoder (VAE) by maximizing the evidence lower bound. We revisit VAE from the perspective of information theory to provide some theoretical foundations on using the reconstruction error and finally arrive at a simpler yet effective model for anomaly detection. In addition, to enhance the effectiveness of detecting anomalies, we incorporate a practical model uncertainty measure into the anomaly score. We show empirically the competitive performance of our approach on benchmark data sets.*
 
 
 ## Requirements
